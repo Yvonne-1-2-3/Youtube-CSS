@@ -1,0 +1,96 @@
+#line{
+    display: flex;
+    justify-content: space-between;
+    height: 35px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
+.youtube{
+    width: 100px;
+    position: relative;
+    right: 40px;
+    
+}
+
+.search{
+    width: 600px;
+    align-content: center;
+    position: relative;
+    left: 60px;
+
+}
+
+.button{
+     padding: 4px;
+     position: relative;
+     
+}
+
+.menu{
+    position: relative;
+    top: 5px;
+    
+}
+
+.apps{
+    position: relative;
+    left: 50px;
+    top: 5px;
+
+}
+
+.options{
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+
+.mic{
+    padding: 7px;
+    position: relative;
+    right: 40px;
+    border-radius: 50px;
+    border-color: rgb(214, 208, 208);
+    border-width: 0.1px;
+}
+
+
+.signin{
+    width: 100px;
+    height: 40px;
+}
+
+/*Grid*/
+.leftcolumn{
+    width: 80%;
+}
+
+.rightcolumn { 
+    width: 20%;
+
+}
+
+.leftcolumn img{
+    width: 900px;
+}
+
+.rightcolumn img{
+    width: 270px;
+}
+
+.bottom{
+    background-color:rgb(247, 247, 247)
+}
+
+
+
+
+
+
+
+
+
+
